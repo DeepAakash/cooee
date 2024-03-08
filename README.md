@@ -1,5 +1,6 @@
 # cooee
 
+
 This repository contains frontend and backend projects for various assignments.
 Tech-stacks used:
 - Angular   v   16.2.12
