@@ -9,7 +9,7 @@ Tech-stacks used:
 
 Following is the structure of this repo:
 
-cooee/
+cooee/  
 ├── frontend/  
 │   ├── assignment1/  
 │   │   ├── (Angular project files)  
