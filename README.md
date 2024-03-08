@@ -9,32 +9,25 @@ Tech-stacks used:
 
 Following is the structure of this repo:
 
-<ul>
-    <li>
-    cooee/ 
-    <ul> 
-    <li>frontend/  
-    │   ├── assignment1/  
-    │   │   ├── (Angular project files)  
-    │   │   ├── README.md  
-    │   │   ├── .gitignore  
-    │   ├── assignment2/  
-    │   │   ├── (Angular project files)  
-    │   │   ├── README.md  
-    │   │   ├── .gitignore  
-    │   └── ...  
-    </li>
-    <li>backend/  
-    │   ├── assignment1-api/  
-    │   │   ├── (NestJS API project files)  
-    │   │   ├── README.md  
-    │   │   ├── .gitignore  
-    │   ├── assignment2-api/  
-    │   │   ├── (NestJS API project files)  
-    │   │   ├── README.md  
-    │   │   ├── .gitignore  
-    │   └── ...  
-    ├── README.md  
-    </li>
-    </ul>
-</ul>
+cooee/  
+├── frontend/  
+│   ├── assignment1/  
+│   │   ├── (Angular project files)  
+│   │   ├── README.md  
+│   │   ├── .gitignore  
+│   ├── assignment2/  
+│   │   ├── (Angular project files)  
+│   │   ├── README.md  
+│   │   ├── .gitignore  
+│   └── ...  
+├── backend/  
+│   ├── assignment1-api/  
+│   │   ├── (NestJS API project files)  
+│   │   ├── README.md  
+│   │   ├── .gitignore  
+│   ├── assignment2-api/  
+│   │   ├── (NestJS API project files)  
+│   │   ├── README.md  
+│   │   ├── .gitignore  
+│   └── ...  
+├── README.md  
