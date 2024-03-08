@@ -6,7 +6,6 @@ Tech-stacks used:
 - NestJS    v   10.3.2
 - MongoDB   v   7.0.2
 
-
 Following is the structure of this repo:
 
 cooee/
